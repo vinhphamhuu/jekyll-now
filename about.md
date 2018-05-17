@@ -7,7 +7,7 @@ My name is Vinh. I'am development programer. I have 2 years experience of Qt Cre
 
 ### More Information
 
-I studied in Ho Chi Minh University of Technical and Education major Electronics and Communicaiton!
+I studied in Ho Chi Minh University of Technical and Education major Electronics and Communication!
 
 
 ### Contact me
